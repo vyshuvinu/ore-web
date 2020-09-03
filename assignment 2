@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewpoint" content="width=device-width , initial- scale=1.0" />
+    <title>Webinar</title>
+  </head>
+  <body>
+    <h1>WEBINAR ON INTRODUCTION TO ARDUINO PROGRAMMING</h1>
+    <br/>
+    <hr/>
+   <p><h3>Hola folks !!🔰Curious to know more about arduino and programming? 
+    Here we are PRODDEC CEC ushers before you an engrossing session on Introduction to arduino programing💡 </h3></p>
+    <P> <h4>Webinar on september 12th<br>Venue:Google meet<br>Time:5:30-7:30<br>
+    </h4></P>
+    <table border="2px black">   
+<tr> 
+
+  <td>
+    <label>Name</label><br>
+    <input type="Name"name="name" placeholder="Name"</td></tr>
+    <tr>  
+  <td>
+    <label>Email Id</label><br>
+    <input type="Email Id" name ="name" placeholder="Email Id"         </td></tr>
+    <tr>
+   <td> 
+    <label>Semester</label><br>
+    <input type="Semester"name="name" placeholder="Semester"</td></tr>
+    <tr> 
+   <td>
+    <label>Department</label><br>
+    
+    <input type="Department"name="name" placeholder="Department"</td></tr>
+    <tr>
+    <td>
+      <label>Phone Number</label><br>
+    
+      <input type="Phone Number"name="name" placeholder="Phone Number"
+
+
+    </td></tr>
+</tr>
+</table>
+ </body>
+ </html>
+
