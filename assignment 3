@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="nav-wrapper">
+        <div class="leftside">
+          <div class="nav-link-wrapper">
+            <a href="index.html" target="blank">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+        <div class="rightside">
+          <div class="brand">
+            <div>VYSHNAVI</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <h2> <B>REGISTRATION FORM</B> </h2>
+
+    <form action="/action_page.php">
+      <label for="fname">First name:</label><br>
+      <input type="text" id="fname" name="fname" placeholder="FIRST NAME"><br>
+      <label for="lname">Last name:</label><br>
+      <input type="text" id="lname" name="lname" placeholder="LAST NAME"><br>
+      <label for="emailid">Email Id:</label><br>
+      <input type="text" id="eid" name="eid" placeholder="EMAIL ID"><br>
+      <input type="submit" value="Submit">
+    </form> 
+    
+  </body>
+</html>
